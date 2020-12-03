@@ -1,2 +1,2 @@
 # gortoo-project
-Gortoo is shell project for windows pc.
+**Gortoo is a shell project for windows pc.**
