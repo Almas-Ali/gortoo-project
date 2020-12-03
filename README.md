@@ -1,4 +1,4 @@
-# gortoo-project
+# Gortoo-Project
 **Gortoo is a shell project for windows pc.**
 
 ## Taglines of Admin
